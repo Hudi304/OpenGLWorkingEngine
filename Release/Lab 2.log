@@ -1,0 +1,12 @@
+﻿  Lab2_main.cpp
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwGetKey
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwTerminate
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwInit
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+Lab2_main.obj : error LNK2001: unresolved external symbol _glewExperimental
+Lab2_main.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+Lab2_main.obj : error LNK2001: unresolved external symbol _glewInit@0
+D:\PG\Lab 2\Release\Lab 2.exe : fatal error LNK1120: 10 unresolved externals

@@ -1,0 +1,6 @@
+D:\PG\Lab 2\x64\Debug\Lab 2.exe
+D:\PG\Lab 2\x64\Debug\Lab 2.pdb
+C:\Dev\ProiectPG\Lab 2\x64\Debug\Lab 2.exe
+C:\Dev\ProiectPG\Lab 2\x64\Debug\Lab 2.pdb
+C:\Dev\ProiectPG\Lab4\x64\Debug\Lab 2.exe
+C:\Dev\ProiectPG\Lab4\x64\Debug\Lab 2.pdb
